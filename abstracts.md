@@ -117,7 +117,7 @@ Day 2: Monday 20<sup>th</sup> May
    </td>
   </tr>
   <tr>
-   <td>14:00 – 17:00
+   <td>14:00 – 15:30
    </td>
    <td>Talks
 <ul>
